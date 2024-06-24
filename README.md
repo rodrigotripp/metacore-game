@@ -1,3 +1,4 @@
+METACORE
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -5,6 +6,16 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
+# first install dependencies.
+npm install 
+
+## after this was done, run the build with...
+npm run build
+
+## after the build is done, then...
+npm run start
+
+For Development
 npm run dev
 # or
 yarn dev
